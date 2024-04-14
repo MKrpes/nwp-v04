@@ -1,0 +1,10 @@
+#include "res.h"
+
+
+IDM_V4 MENU
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "World Wrap",   ID_WORLDWRAP
+    END
+END
